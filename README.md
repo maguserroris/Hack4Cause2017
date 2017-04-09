@@ -1,9 +1,15 @@
-# Hack for a Cause2017
+# Hack for a Cause2017 Team "SecondPlace
 
-Hack4Cause 2017 repo.
+We are addressing the "Hult Center" challenge.
 
-This repository contains documentation :page_facing_up: for the event.
 
-Much of the documentation in this repository will be also be available on the website http://hackforacause.io/ :computer:
 
-Please read any applicable docs with your participation in Hack for a Cause 2017.
+Team Members:
+
+Aaron Grieger     amgrieger@gmail.com
+
+
+
+We using the following components:
+
+
