@@ -1,13 +1,33 @@
-# Hack for a Cause2017 Team "Example"
+# EUGChange
 
-We are addressing the "bla bla bal" challenge.
+## Description:
+EUGChange is a secure alternative to giving money to panhandlers. <br/>
 
-Team Members:
+## Technologies used: <br/>
+Paypal API
 
-me      my@gmail.com  
-friend  friend@school.edu  
-hodor   hodor@hodor.hodor  
-
-We using the following components:
+## Link:
+http://eugchange.pythonanywhere.com/ <br/>
 
 
+# Downtown Safety App
+
+## Description:<br/>
+The purpose of this application is to provide a user friendly way to report
+incidents to alert others of potential dangers or locations of interest.
+
+## Technologies used:<br/>
+Google Maps API<br/>
+Google Auth Sign In
+
+## Link:
+http://change4change.pythonanywhere.com/ <br/>
+
+
+## Team Members: <br/>
+Chris Brooks cbrooks4@uoregon.edu<br/>
+Alex Geoffrey apg@uorgeon.edu<br/>
+Jeffrey Knees jknees@uoregon.edu<br/>
+Daniel Su dsu@uoregon.edu<br/>
+Brandon Sov b.r.a.n.d.o.n.s.o.v@gmail.com<br/>
+<br/>
